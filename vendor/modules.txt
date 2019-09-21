@@ -1,0 +1,3 @@
+# github.com/garyburd/redigo v1.6.0
+github.com/garyburd/redigo/redis
+github.com/garyburd/redigo/internal
